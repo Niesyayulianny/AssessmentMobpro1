@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="kalkulator">KALKULATOR</string>
+    <string name="bilangan_pertama">Bilangan Pertama</string>
+    <string name="pertama_invalid">Bilangan Pertama Tidak Boleh Kosong</string>
+    <string name="bilangan_kedua">Bilangan Kedua</string>
+    <string name="kedua_invalid">Bilangan Kedua Tidak Boleh Kosong</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">:</string>
+    <string name="hasil">Hasil</string>
+</resources>
